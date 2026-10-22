@@ -1,7 +1,7 @@
 # CPE 010 CPE21S1 - Data Structures and Algorithms - Medina
 
 <div class="image-container">
-    <img src="Media/Images/banner.jpg" alt="Alt text" width="400">
+    <img src="Media/Images/banner.jpg" alt="Alt text" width="1000">
 </div>
 
 ## Overview
