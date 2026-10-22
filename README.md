@@ -19,12 +19,30 @@ This is a course repository for my CPE 010 - Data Structures and Algorithms Clas
 
 ---
 
-## Repository Structure
+## Repository Structure (up-to-date and completed as of 22/10/2026)
 
 ```
 ├── Assignment Outputs/
 ├── Lab Activities/
+  └── FINALS
+    └── HOA 10.1 - Graphs
+    └── HOA 11.1 - Basic Algorithm Analysis
+    └── HOA 13.1 - Parallel Algorithms and Multithreading
+    └── HOA 14.1 - Algorithm Complexity
+  └── MIDTERMS
+    └── HOA 6.1 - Searching Techniques
+    └── HOA 7.1 - Sorting Algorithms Pt1
+    └── HOA 8.1 - Sorting Algorithms Pt2
+    └── HOA 9.1 - Tree ADT
+  └── PRELIMS
+    └── HOA 1.1 - Basic C++ Programming
+    └── HOA 2.1 - Arrays, Pointers and Dynamic Memory Allocation
+    └── HOA 3.1 - Linked Lists
+    └── HOA 4.1 - Stacks
+    └── HOA 5.1 - Queues
 ├── Media/
+  └── Images
+    └── banner.jpg
 ├── Project Files/
 └── README.md
 ```
