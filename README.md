@@ -1,5 +1,9 @@
 # CPE 010 CPE21S1 - Data Structures and Algorithms - Medina
 
+<div class="image-container">
+    <img src="Media/Images/banner.jpg" alt="Alt text" width="400">
+</div>
+
 ## Overview
 This is a course repository for my CPE 010 - Data Structures and Algorithms Class. The repository shall contain all of my laboratory activities, assignments, seatworks, and exercises for the course and shall serve as a record of all of my work throughout the entirety of the semester.
 
