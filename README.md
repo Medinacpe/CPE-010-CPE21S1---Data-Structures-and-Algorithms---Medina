@@ -1,13 +1,13 @@
-# CPE 031 CPE21S1 - Visualizations and Data Analysis - Medina
+# CPE 010 CPE21S1 - Data Structures and Algorithms - Medina
 
 ## Overview
-This is a course repository for my CPE 031 - Visualizations and Data Analysis Class. The repository shall contain all of my laboratory activities, assignments, seatworks, and exercises for the course and shall serve as a record of all of my work throughout the entirety of the semester.
+This is a course repository for my CPE 010 - Data Structures and Algorithms Class. The repository shall contain all of my laboratory activities, assignments, seatworks, and exercises for the course and shall serve as a record of all of my work throughout the entirety of the semester.
 
 ---
 
 ## Course Info
 
-- **Course:** CPE 031 - Visualizations and Data Analysis
+- **Course:** CPE 010 - Data Structures and Algorithms
 - **Section:** CPE21S1
 - **Student:** Medina, Jomz Ryle E.
 - **Instructor:** Engr. Jimlord Quejado
@@ -19,7 +19,6 @@ This is a course repository for my CPE 031 - Visualizations and Data Analysis Cl
 
 ```
 ├── Assignment Outputs/
-├── Datasets/
 ├── Lab Activities/
 ├── Media/
 ├── Project Files/
@@ -29,24 +28,20 @@ This is a course repository for my CPE 031 - Visualizations and Data Analysis Cl
 ## Topics Covered:
 
 PRELIM:
-- Introduction; TIP Vision and Mission; TIP Graduate Attributes/ Institutional Intended Learning Outcomes; Program Educational Objectives / Student Outcomes; Course Objectives/ Course Intended Learning Outcomes; Course Policies
-- Experience Analytics: What is Data?, Data is All Around Us, and Business Understanding.
-- Data Collection and Storage: Understanding Big Data, and Understanding Big Data Management.
-- Artificial Intelligence and Machine Learning: AI Fact and Fiction, and Big Data and Machine Learning.
-- Embarking Your Career in Data Analytics: Preparing for a Career in Data Analytics, and Taking the Next Steps.
+- Course Introduction: TIP Vision and Mission; TIP Graduate Attributes/Institutional Learning Outcomes; Program Educational Objectives / Student Outcomes; Course Syllabus and Course Requirements; Orientation for Industry and Laboratory Software and Tools.
+- Introduction to Data Structures and Algorithm Analysis: C++ Programming Review, Abstract Data Types, Space and Time Complexity, Algorithm Analysis Techniques
+- Arrays and Linked Lists: Dynamic Memory Allocation, and Singly, Doubly and Circular Linked Lists
+- Stacks: Stack using Array, Stack using Linked Lists, Implementation in C++, Problem Solving
 
 MIDTERMS:
-- Selecting a Chart Type
-- Data Visualization and Design
-- Purposeful Use of Color
-- Visualizing Variability
+- Queues: Queues using Arrays, Queues using Linked Lists, Implementation in C++, Problem Solving
+- Searching Techniques: Linear Search, Binary Search, Hashing
+- Sorting Algorithms: Basic Sorting Algorithms
 
 FINALS:
-- Exploring Data Visually
-- Explaining Visually to Influence with Data
-- Data Dashboards
-- Telling the Truth with Data Visualization
-
+- Tree ADT; General and Binary Search Trees; AVL Tree; Traversal Algorithms; Solving Problems using Trees.
+- Graph ADT; Adjacency Matrix and Adjacency List; Breadth-First Search; Depth-First Search; Solving Problems using Graphs.
+- Basic Algorithm Analysis; Theoretical and Experimental Methods in Measuring Time; Time Complexity Classes.
 
 
 
