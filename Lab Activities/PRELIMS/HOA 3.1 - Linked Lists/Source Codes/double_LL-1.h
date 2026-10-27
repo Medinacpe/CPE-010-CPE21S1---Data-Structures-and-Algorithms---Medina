@@ -55,6 +55,19 @@ void dllTraverse(doubleList<T>* currentNode){
     std::cout << std::endl << std::endl;
 };
 
+// Search / Traversal for a specific element
+template <typename T>
+doubleList<T>* dllSearch(T findData, doubleList<T>* currentHead) {
+    doubleList<T>* current = currentHead;
+    
+    // Traversal to find the specific value
+    while(current != nullptr && current->data != findData){         
+        current = current->next;     
+    }
+    
+    // Returns the pointer to the node found, or nullptr if not found
+    return current;
+}
 
 // Insetion at the head
 template <typename T>
